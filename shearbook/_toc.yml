@@ -35,6 +35,10 @@
       sections:
         - file: calibration/calibration-ref
 
+- part: Appendix
+  chapters:
+    - file: appendix/likelihood_bayesian_estimator_bias
+
 - part: Contributing
   chapters:
     - file: contrib/contributors
